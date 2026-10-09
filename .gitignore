@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code Code Runner temp file
+tempCodeRunnerFile.py
+
+# Saved notes (created automatically on first run)
+GUI Version/sticky_notes_data.json
+CLI version/notes.json
